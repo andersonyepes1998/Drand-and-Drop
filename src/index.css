@@ -1,0 +1,16 @@
+body{
+  background-color: gray;
+}
+
+li {
+  border: 1px solid rgb(0, 102, 255);
+  padding: 0.5rem;
+  font-size: large;
+  text-align: center;
+}
+
+ul {
+  list-style: none;
+  padding: 1rem;
+  border: 2px solid rgb(255, 255, 255);
+}
